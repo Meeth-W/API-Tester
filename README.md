@@ -11,6 +11,8 @@ This project is a frontend framework designed to test any backend API. It provid
 - **Flexible Data Input:** Add any other data types required for your API requests.
 - **Send Button:** Trigger the API call and view the response instantly.
 
+<img width="1875" height="1109" alt="image" src="https://github.com/user-attachments/assets/dd88b360-0d19-431d-9eec-6bb399beeed4" />
+
 ## Built With
 
 - [React.js](https://react.dev/) – JavaScript library for building user interfaces.
